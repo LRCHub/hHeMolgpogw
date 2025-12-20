@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Beyond the way",
+  "base_artist": "Vivid BAD SQUAD",
+  "createdAt": "2025-12-20T10:46:03.020424Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beyond the way",
+      "artist": "Giga",
+      "has_synced": true,
+      "path": "select/01_Beyond_the_way_Giga.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beyond the way",
+      "artist": "Giga",
+      "has_synced": true,
+      "path": "select/02_Beyond_the_way_Giga.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beyond the way",
+      "artist": "Giga feat. 初音ミク・鏡音リン・鏡音レン",
+      "has_synced": true,
+      "path": "select/03_Beyond_the_way_Giga_feat._初音ミク・鏡音リン・鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beyond the way (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/04_Beyond_the_way_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Beyond the way",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/05_Beyond_the_way_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Beyond the way",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク",
+      "has_synced": true,
+      "path": "select/06_Beyond_the_way_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beyond the way (English Cover)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": false,
+      "path": "select/07_Beyond_the_way_(English_Cover)_Vivid_BAD_SQUAD.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beyond the way (Instrumental)",
+      "artist": "Giga",
+      "has_synced": false,
+      "path": "select/08_Beyond_the_way_(Instrumental)_Giga.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beyond the way (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": false,
+      "path": "select/pl_01_Beyond_the_way_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)_Vivid_BAD_SQUAD.txt"
+    }
+  ]
+}
